@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhTbQfun/t4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Downloads\\mod-lab04-bug\\bugpro\\bugpro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\stateless\\5.13.0\\stateless.5.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
